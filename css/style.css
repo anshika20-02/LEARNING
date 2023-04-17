@@ -34,7 +34,7 @@ html::-webkit-scrollbar-track {
 }
 
 html::-webkit-scrollbar-thumb {
-  background: #0eb582;
+  background: #73ecc8;;
 }
 
 section {
@@ -61,7 +61,7 @@ section {
 }
 
 .heading-link p a {
-  color: #0eb582;
+  color: #73ecc8;;
 }
 
 .heading-link p a:hover {
@@ -89,7 +89,7 @@ section {
 }
 
 .btn:hover {
-  background: #0eb582;
+  background: #73ecc8;;
   color: #fff;
 }
 
@@ -155,7 +155,7 @@ section {
 }
 
 .header .navbar a:hover {
-  color: #0eb582;
+  color: #73ecc8;;
 }
 
 .header .icons div {
@@ -166,7 +166,7 @@ section {
 }
 
 .header .icons div:hover {
-  color: #0eb582;
+  color: #73ecc8;;
 }
 
 .header #menu-btn {
@@ -219,7 +219,7 @@ section {
 }
 
 .account-form form {
-  border: 0.1rem solid #0eb582;
+  border: 0.1rem solid #73ecc8;;
   padding: 2rem;
   display: none;
 }
@@ -281,7 +281,7 @@ section {
 }
 
 .account-form .buttons .btn.active {
-  background: #0eb582;
+  background: #73ecc8;;
   color: #fff;
 }
 
@@ -308,8 +308,8 @@ section {
 .home .slide .content h3 {
   font-size: 5rem;
   text-transform: capitalize;
-  color: #444;
-  color: #fff;
+ 
+  color: #000000;
 }
 
 .home .slide .content p {
@@ -344,7 +344,7 @@ section {
   border: 0.1rem solid #000;
 }
 .subjects .box-container .box:hover {
-  background: #0eb582;
+  background: #73ecc8;
 }
 
 .subjects .box-container .box:hover h3 {
@@ -400,7 +400,7 @@ section {
   bottom: -100%;
   right: 0;
   left: 0;
-  background: #0eb582;
+  background: #73ecc8;
   padding: 2rem 3rem;
 }
 
@@ -475,7 +475,7 @@ section {
 
 .about .content .icons-container .icons {
   text-align: center;
-  border: 0.1rem solid #0eb582;
+  border: 0.1rem solid #73ecc8;;
   background: #f0fdfa;
   padding: 3rem 2rem;
 }
@@ -539,7 +539,7 @@ section {
   }
   
   .teachers .slide .image .share a:hover {
-    color: #3cdc6f;
+    color: #73ecc8;;
   margin:0 1 rem;
   }
   
@@ -628,7 +628,7 @@ section {
 }
 
 .courses .box-container .box .content .icons span i {
-  color: #0eb582;
+  color: #73ecc8;;
   padding-right: .5rem;
 }
 
@@ -649,7 +649,7 @@ section {
 .contact .icons-container .icons {
   text-align: center;
   padding: 3rem 2rem;
-  border: 0.1rem solid #0eb582;
+  border: 0.1rem solid #73ecc8;;
   background: #f0fdfa;
 }
 
@@ -729,7 +729,7 @@ section {
 }
 
 .contact .row form .box:focus {
-  background: #0eb582;
+  background: #73ecc8;;
   color: #fff;
 }
 
@@ -776,7 +776,7 @@ section {
 }
 
 .footer .box-container .box h3 i {
-  color: #0eb582;
+  color: #73ecc8;;
 }
 
 .footer .box-container .box .share {
@@ -822,7 +822,7 @@ section {
   width: 100%;
   padding: 1.2rem 1.4rem;
   font-size: 1.6rem;
-  border: 0.1rem solid #0eb582;
+  border: 0.1rem solid #73ecc8;;
   margin-bottom: 1rem;
 }
 
